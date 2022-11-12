@@ -1,10 +1,9 @@
 # Atmatech-QA-Test
 
-Buka IDE eclipse
-Import package
-Buka src/namafile.java
-Sesuaikan path driver dengan pc/laptop yang akan menjalankan script
-Pastikan tidak ada error message
-Run script.
-[readme.txt](https://github.com/PutriPsb123/Atmatech-QA-Test/files/9994564/readme.txt)
-Ketika sudah selesai, maka pada console akan ter-print test berhasil
+1. Buka IDE eclipse
+2. Import package
+3. Buka src/namafile.java
+4. Sesuaikan path driver dengan pc/laptop yang akan menjalankan script
+5. Pastikan tidak ada error message
+6. Run script
+7. Ketika sudah selesai, maka pada console akan ter-print test berhasil
